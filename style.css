@@ -13,8 +13,10 @@
     top: 30%;
     left: 80%;
     animation-name: pusheen;
-    animation-duration: 5s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
+    height: 250px;
+    width: auto;
 }
 @keyframes pusheen {
       from{ transform: translateX(100%);}
